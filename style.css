@@ -1,4 +1,3 @@
-/* Alap beállítások */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f6f8;
@@ -8,7 +7,6 @@ body {
     justify-content: center;
 }
 
-/* Középre igazított doboz */
 ul {
     background-color: white;
     padding: 20px 40px;
@@ -18,13 +16,11 @@ ul {
     list-style-type: none;
 }
 
-/* Cím */
 h1 {
     text-align: center;
     margin-top: 40px;
 }
 
-/* Lista elemek */
 li {
     margin: 10px 0;
     font-size: 18px;
@@ -33,7 +29,6 @@ li {
     align-items: center;
 }
 
-/* Checkbox méret */
 input[type="checkbox"] {
     transform: scale(1.2);
     cursor: pointer;
